@@ -1,0 +1,28 @@
+.fallback {
+    text-align: center;
+    cursor: default;
+    margin: auto;
+    margin-top: 20%;
+}
+.fallback h1, .fallback h2 {
+    margin: 0;
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    color: #757575;
+}
+.fallback h1 {
+    font-weight: lighter;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+.fallback h2 {
+
+}
+.fallback p {
+    font-style: italic;
+}
+.fallback a {
+    color: #CB672B;
+    text-decoration: none;
+}
